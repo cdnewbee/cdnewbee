@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+  <channel>
+    <title>Trending repositories on GitHub today · GitHub</title>
+    <link>https://github.com/trending/?since=daily&amp;spoken_language_code=</link>
+    <atom:link href="http://10.0.0.43:1200/github/trending/daily/any" rel="self"
+      type="application/rss+xml"></atom:link>
+    <description>Trending repositories on GitHub today · GitHub - Powered by RSSHub</description>
+    <generator>RSSHub</generator>
+    <webMaster>contact@rsshub.app (RSSHub)</webMaster>
+    <language>en</language>
+    <lastBuildDate>Mon, 08 Jun 2026 06:51:50 GMT</lastBuildDate>
+    <ttl>5</ttl>
+    <item>
+      <title>mvanhorn/last30days-skill</title>
+      <description>&lt;img
+        src=&quot;https://opengraph.githubassets.com/24a839883d31e20cfb3dac2507825be92badb16811e814b7c26e1b9a7e917a17/mvanhorn/last30days-skill&quot;
+        referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt;AI agent skill that researches any topic
+        across Reddit, X, YouTube, HN, Polymarket, and the web - then synthesizes a grounded
+        summary&lt;br&gt;&lt;br&gt;Language: Python&lt;br&gt;Stars: 32062&lt;br&gt;Forks: 2668</description>
+      <link>https://github.com/mvanhorn/last30days-skill</link>
+      <guid isPermaLink="false">https://github.com/mvanhorn/last30days-skill</guid>
+      <author>mvanhorn</author>
+    </item>
+    <item>
+      <title>opencv/opencv</title>
+      <description>&lt;img
+        src=&quot;https://opengraph.githubassets.com/39dd71566aafeb5ffe23a6b87036997de10da73b7e92962c137e183ff1a172ed/opencv/opencv&quot;
+        referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt;Open Source Computer Vision
+        Library&lt;br&gt;&lt;br&gt;Language: C++&lt;br&gt;Stars: 88226&lt;br&gt;Forks: 56607</description>
+      <link>https://github.com/opencv/opencv</link>
+      <guid isPermaLink="false">https://github.com/opencv/opencv</guid>
+      <author>opencv</author>
+    </item>
+    <item>
+      <title>Leonxlnx/taste-skill</title>
+      <description>&lt;img
+        src=&quot;https://repository-images.githubusercontent.com/1162099055/0a968964-fdca-4781-853b-84afc2bc2d31&quot;
+        referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt;Taste-Skill - gives your AI good taste.
+        stops the AI from generating boring, generic slop &lt;br&gt;&lt;br&gt;Language:
+        Shell&lt;br&gt;Stars: 37360&lt;br&gt;Forks: 2671</description>
+      <link>https://github.com/Leonxlnx/taste-skill</link>
+      <guid isPermaLink="false">https://github.com/Leonxlnx/taste-skill</guid>
+      <author>Leonxlnx</author>
+    </item>
+    <item>
+      <title>NousResearch/hermes-agent</title>
+      <description>&lt;img
+        src=&quot;https://opengraph.githubassets.com/77159a204ae072a9dc78e8aaf179dc70ca92a49266ce41fd29f52ea55033126d/NousResearch/hermes-agent&quot;
+        referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt;The agent that grows with
+        you&lt;br&gt;&lt;br&gt;Language: Python&lt;br&gt;Stars: 186399&lt;br&gt;Forks: 32069</description>
+      <link>https://github.com/NousResearch/hermes-agent</link>
+      <guid isPermaLink="false">https://github.com/NousResearch/hermes-agent</guid>
+      <author>NousResearch</author>
+    </item>
+    <item>
+      <title>lfnovo/open-notebook</title>
+      <description>&lt;img
+        src=&quot;https://repository-images.githubusercontent.com/876286167/a086d43b-112b-4c10-91f5-5c3fd71c9af9&quot;
+        referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt;An Open Source implementation of
+        Notebook LM with more flexibility and features&lt;br&gt;&lt;br&gt;Language:
+        TypeScript&lt;br&gt;Stars: 27558&lt;br&gt;Forks: 3119</description>
+      <link>https://github.com/lfnovo/open-notebook</link>
+      <guid isPermaLink="false">https://github.com/lfnovo/open-notebook</guid>
+      <author>lfnovo</author>
+    </item>
+    <item>
+      <title>yikart/AiToEarn</title>
+      <description>&lt;img
+        src=&quot;https://opengraph.githubassets.com/15ea900d1bec471cadd05ab0faccbbd1803664e84505eb2f8ba3e5420ef1eb82/yikart/AiToEarn&quot;
+        referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt;Let&#39;s use AI to
+        Earn!&lt;br&gt;&lt;br&gt;Language: TypeScript&lt;br&gt;Stars: 19038&lt;br&gt;Forks: 2938</description>
+      <link>https://github.com/yikart/AiToEarn</link>
+      <guid isPermaLink="false">https://github.com/yikart/AiToEarn</guid>
+      <author>yikart</author>
+    </item>
+    <item>
+      <title>aaif-goose/goose</title>
+      <description>&lt;img
+        src=&quot;https://opengraph.githubassets.com/bea98fe24f175b764d93ebe3022f66b59a87368975a74dc4313f326f1d0e0bd3/aaif-goose/goose&quot;
+        referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt;an open source, extensible AI agent that
+        goes beyond code suggestions - install, execute, edit, and test with any
+        LLM&lt;br&gt;&lt;br&gt;Language: Rust&lt;br&gt;Stars: 47686&lt;br&gt;Forks: 5027</description>
+      <link>https://github.com/aaif-goose/goose</link>
+      <guid isPermaLink="false">https://github.com/aaif-goose/goose</guid>
+      <author>aaif-goose</author>
+    </item>
+    <item>
+      <title>Crosstalk-Solutions/project-nomad</title>
+      <description>&lt;img
+        src=&quot;https://opengraph.githubassets.com/7b0c4c9f1a91025304568e1f9f765764bafd0acfa64c5d59d6aa5186ddbebd4a/Crosstalk-Solutions/project-nomad&quot;
+        referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt;Project N.O.M.A.D, is a self-contained,
+        offline survival computer packed with critical tools, knowledge, and AI to keep you informed
+        and empowered—anytime, anywhere.&lt;br&gt;&lt;br&gt;Language: TypeScript&lt;br&gt;Stars:
+        29864&lt;br&gt;Forks: 2960</description>
+      <link>https://github.com/Crosstalk-Solutions/project-nomad</link>
+      <guid isPermaLink="false">https://github.com/Crosstalk-Solutions/project-nomad</guid>
+      <author>Crosstalk-Solutions</author>
+    </item>
+    <item>
+      <title>ggml-org/llama.cpp</title>
+      <description>&lt;img
+        src=&quot;https://repository-images.githubusercontent.com/612354784/c59e3320-a236-4182-941f-ea3f1a0f50e7&quot;
+        referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt;LLM inference in
+        C/C++&lt;br&gt;&lt;br&gt;Language: C++&lt;br&gt;Stars: 115459&lt;br&gt;Forks: 19321</description>
+      <link>https://github.com/ggml-org/llama.cpp</link>
+      <guid isPermaLink="false">https://github.com/ggml-org/llama.cpp</guid>
+      <author>ggml-org</author>
+    </item>
+    <item>
+      <title>RyanCodrai/turbovec</title>
+      <description>&lt;img
+        src=&quot;https://repository-images.githubusercontent.com/1192555574/c9d82d4e-1a88-4201-a548-615cfbb0b16a&quot;
+        referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt;A vector index built on TurboQuant,
+        written in Rust with Python bindings&lt;br&gt;&lt;br&gt;Language: Python&lt;br&gt;Stars:
+        7570&lt;br&gt;Forks: 729</description>
+      <link>https://github.com/RyanCodrai/turbovec</link>
+      <guid isPermaLink="false">https://github.com/RyanCodrai/turbovec</guid>
+      <author>RyanCodrai</author>
+    </item>
+    <item>
+      <title>TapXWorld/ChinaTextbook</title>
+      <description>&lt;img
+        src=&quot;https://opengraph.githubassets.com/6ea53cf13c2f725a589e3758fbfd28cf8c5b3b1e7844b1d254236302d64d6dbb/TapXWorld/ChinaTextbook&quot;
+        referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt;所有小初高、大学PDF教材。&lt;br&gt;&lt;br&gt;Language:
+        Roff&lt;br&gt;Stars: 72685&lt;br&gt;Forks: 16275</description>
+      <link>https://github.com/TapXWorld/ChinaTextbook</link>
+      <guid isPermaLink="false">https://github.com/TapXWorld/ChinaTextbook</guid>
+      <author>TapXWorld</author>
+    </item>
+    <item>
+      <title>openai/plugins</title>
+      <description>&lt;img
+        src=&quot;https://opengraph.githubassets.com/9b92b1100dda709f210939f8d96f6fbb34580bb354507c2c3387eaa218a13f32/openai/plugins&quot;
+        referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt;OpenAI
+        Plugins&lt;br&gt;&lt;br&gt;Language: JavaScript&lt;br&gt;Stars: 2126&lt;br&gt;Forks: 274</description>
+      <link>https://github.com/openai/plugins</link>
+      <guid isPermaLink="false">https://github.com/openai/plugins</guid>
+      <author>openai</author>
+    </item>
+    <item>
+      <title>refactoringhq/tolaria</title>
+      <description>&lt;img
+        src=&quot;https://opengraph.githubassets.com/c1516c6d84e93d71b0df98add7f9550f657fe960ff5187494f77d11012aa8348/refactoringhq/tolaria&quot;
+        referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt;Desktop app to manage markdown knowledge
+        bases&lt;br&gt;&lt;br&gt;Language: TypeScript&lt;br&gt;Stars: 13070&lt;br&gt;Forks: 920</description>
+      <link>https://github.com/refactoringhq/tolaria</link>
+      <guid isPermaLink="false">https://github.com/refactoringhq/tolaria</guid>
+      <author>refactoringhq</author>
+    </item>
+    <item>
+      <title>HunxByts/GhostTrack</title>
+      <description>&lt;img
+        src=&quot;https://opengraph.githubassets.com/ce647fdf7e03cecb2f8f719d7fc3004a00d5405ed94f057256be408938601fa5/HunxByts/GhostTrack&quot;
+        referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt;Useful tool to track location or mobile
+        number&lt;br&gt;&lt;br&gt;Language: Python&lt;br&gt;Stars: 13837&lt;br&gt;Forks: 1846</description>
+      <link>https://github.com/HunxByts/GhostTrack</link>
+      <guid isPermaLink="false">https://github.com/HunxByts/GhostTrack</guid>
+      <author>HunxByts</author>
+    </item>
+    <item>
+      <title>microsoft/pg_durable</title>
+      <description>&lt;img
+        src=&quot;https://opengraph.githubassets.com/c77d942db3a0d0ec71bd702343dd26b73b705549f3496f0ee3a5fbf62f2f1991/microsoft/pg_durable&quot;
+        referrerpolicy=&quot;no-referrer&quot;&gt;&lt;br&gt;PostgreSQL in-database durable
+        execution&lt;br&gt;&lt;br&gt;Language: Rust&lt;br&gt;Stars: 1540&lt;br&gt;Forks: 36</description>
+      <link>https://github.com/microsoft/pg_durable</link>
+      <guid isPermaLink="false">https://github.com/microsoft/pg_durable</guid>
+      <author>microsoft</author>
+    </item>
+  </channel>
+</rss>
